@@ -36,7 +36,6 @@ celerybeat-schedule
 
 # Environment
 .env
-.env.*
 venv/
 venv/*
 venv/bin/
